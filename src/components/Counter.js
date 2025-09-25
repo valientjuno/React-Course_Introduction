@@ -14,7 +14,7 @@ const Counter = () => {
 
   return (
     <div className="container">
-      <h2>And some more Here</h2>
+      <h2>Enjoy this counter!</h2>
       <button className="btn btn-3" onClick={handleDecrement}>
         Minus 1
       </button>
